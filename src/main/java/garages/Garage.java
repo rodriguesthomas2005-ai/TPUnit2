@@ -1,10 +1,10 @@
 package garages;
 
 import lombok.Getter;
-import lombok.Setter;
-import lombok.ToString;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
+import lombok.Setter;
+import lombok.ToString;
 
 /**
  * Représente un garage où les voitures peuvent être stationnées.
